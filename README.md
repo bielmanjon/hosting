@@ -26,5 +26,11 @@ Cowabi: 200 MB de almacenamiento y protección SSL gratuita por un año, con opc
 
 Wix: Hasta 500 MB de almacenamiento y ancho de banda, HTTPS y SSL, además de herramientas de creación de sitios.
 
-Byet: 1 GB de espacio en disco, soporte para PHP/MySQL y control mediante su sistema VistaPanel, con soporte técnico gratuito.
+Byet: 1 GB de espacio en disco, soporte para PHP/MySQL y control mediante su sistema VistaPanel, con soporte técnico gratuito
 
+## Tabla
+
+| Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
