@@ -28,7 +28,7 @@ Wix: Hasta 500 MB de almacenamiento y ancho de banda, HTTPS y SSL, además de he
 
 Byet: 1 GB de espacio en disco, soporte para PHP/MySQL y control mediante su sistema VistaPanel, con soporte técnico gratuito
 
-## Tabla
+# Tabla
 
 
 | Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
